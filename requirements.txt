@@ -4,5 +4,6 @@ numpy
 scikit-learn
 scikit-surprise
 matplotlib
+seaborn
 requests
 python-dotenv
